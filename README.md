@@ -2,10 +2,13 @@
 ### AI Aircraft for FlightGear
 #### Now with navigation lights.
 
-![b200-lights](screenshots/b200-lights.jpg)
+
 ![RAF](screenshots/RAF.jpg)
 ![USNAVY](screenshots/USNAVY.jpg)
-
+![TF-NLB](screenshots/TF-NLB.jpg)
+![n461df](screenshots/n461df.jpg)
+![g-hmgb](screenshots/g-hmgb.jpg)
+![g-oems](screenshots/g-oems.jpg)
 
 Download the zip file and extract the "beech-200" folder into the "$FG_ROOT/AI/Aircraft" folder.
 
@@ -13,7 +16,7 @@ Download the zip file and extract the "beech-200" folder into the "$FG_ROOT/AI/A
 
 This AI aircraft is already in FlightGear but this version has navagation lights.
 
-**RAF and US Navy liveries are not currently in FlightGear.**
+**The liveries displayed here are not currently in FlightGear.**
 
 To use you will need to create a traffic file, see the wiki for instructions. http://wiki.flightgear.org/AI_Traffic
 
